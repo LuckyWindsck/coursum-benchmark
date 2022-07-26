@@ -1,0 +1,10 @@
+{
+  "name": "coursum-benchmark",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "LuckyWind_sck <luckywindsck@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ohmyfetch": "^0.4.18"
+  }
+}
